@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DimitriiTrater
-- 👀 I’m interested in all
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on every project
-- 📫 How to reach me ...
+- 👋 Hi, I’m @DimitriiTrater, python developer.
+- 👀 I’m interested in: Django and Vk, Tg bots. 
+- 🌱 I’m currently learning: C# for desktop apps.
+- 💞️ I’m looking to collaborate: all.
+- 📫 How to reach me: dima1603040@gmail.com
 
 <!---
 DimitriiTrater/DimitriiTrater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
