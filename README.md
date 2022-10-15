@@ -57,6 +57,8 @@ I am  a student 🐱‍💻 From Russia
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="70" height="70"/>
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="70" height="70"/>
+  &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="70" height="70"/>
   
 </div>
 
