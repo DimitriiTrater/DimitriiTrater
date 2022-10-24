@@ -67,6 +67,7 @@ I am  a student 🐱‍💻 From Russia
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriiTrater&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitriiTrater&show_icons=true&theme=vision-friendly-dark)
 
 <!---
 DimitriiTrater/DimitriiTrater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
