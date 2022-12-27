@@ -11,18 +11,6 @@
   <h1>🐱‍💻SUP🐱‍💻</h1>
 </div>
 
-<div align="center">
-  <img src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=790b761111daa521860b4cab2add0e284348605f249536ef&rid=giphy.gif&ct=s" height=100 width=100/> 
-  
-  <img src="https://media1.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=790b761144d09f9556723289fdea61d6bd8d1ce98ced600b&rid=giphy.gif&ct=s" height=100 width=100/> 
-  
-  <img src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" height=100 width=100/> 
-  
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height=100 width=100/> 
-  
-</div>
-
-
 ###  About Me:
 
 I am  a student 🐱‍💻 From Russia
@@ -33,34 +21,6 @@ I am  a student 🐱‍💻 From Russia
 - 📫 How to reach me: dima1603040@gmail.com
 
 ---
-### Hard:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Win" alt="Win" width="70" height="70"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="GO" alt="GO" width="70" height="70"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vscode" alt="Vscode" width="70" height="70"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="70" height="70"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python3" alt="python3" width="70" height="70"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="70" height="70"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="70" height="70"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy" alt="sqlalchemy" width="70" height="70"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="70" height="70"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="70" height="70"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="70" height="70"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="70" height="70"/>
-  
-</div>
 
 ### My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DimitriiTrater&theme=dark&background=000000)](https://git.io/streak-stats)
